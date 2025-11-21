@@ -1,128 +1,79 @@
-<!-- Neon Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/e6p7R42.png" width="900" />
-</p>
+# About Me ℹ️
 
-<h1 align="center">
-  <span style="color:#9D00FF;">⚡ HARSHARAJ ⚡</span>
-</h1>
+<table>
+  <tr>
+    <td width="70%">
+      <h2>Hi there! 👋</h2>
+      <p>
+        I'm <b>Harsha Raj</b>, a passionate <b>AI Engineer and Full-Stack Developer</b>.<br><br>
+        My journey involves:
+        <ul>
+          <li>🤖 Building AI Chatbots, RAG Systems & Full-Stack Apps</li>
+          <li>🌱 Currently mastering Vector Databases, LangChain, Cloud & System Design</li>
+          <li>💼 Experienced with FastAPI, Next.js, React Native, ChromaDB, Groq, LangGraph</li>
+          <li>💞️ Looking to collaborate on AI, ML, Deep Learning & large-scale web apps</li>
+          <li>📫 Reach me at <b>harsharajs018@gmail.com</b></li>
+        </ul>
+      </p>
+    </td>
+    <td width="30%">
+      <img src="https://github.com/user-attachments/assets/151304e8-7ee8-486a-8f85-65242817f9c8"
+      alt="coder" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">
-  <span style="color:#00E5FF;">AI Engineer • Full-Stack Developer • Cloud & ML Enthusiast</span>
-</h3>
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://harsharaj.vercel.app) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsharaj-5755b8311)
+[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white)](https://github.com/HarsharajJ)
 
----
+# 💻 Tech Stack:
 
-## 🟣 ABOUT ME — *"Built for the Future"*
-A futuristic **AI + Full-Stack Developer** forged in the world of neural networks and distributed systems.  
-Specialized in **AI chatbots, RAG pipelines, mobile apps, and full-stack systems** that scale like cyber-cities.  
-Fueled by curiosity. Driven by innovation.  
-Aiming to build tech that feels alive.
+<!-- Languages -->
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
----
+<!-- Backend -->
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 
-## 🟦 CONNECT WITH ME
-<p align="center">
-  <a href="https://github.com/HarsharajJ"><img src="https://img.shields.io/badge/GitHub-0A0F0B?logo=github&logoColor=00E5FF"></a>
-  <a href="https://linkedin.com/in/harsharaj-5755b8311"><img src="https://img.shields.io/badge/LinkedIn-0A0F0B?logo=linkedin&logoColor=9D00FF"></a>
-  <a href="mailto:harsharajs018@gmail.com"><img src="https://img.shields.io/badge/Email-0A0F0B?logo=gmail&logoColor=FF0080"></a>
-  <a href="https://harsharaj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0F0B?logo=vercel&logoColor=00FFAA"></a>
-</p>
+<!-- Frontend -->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c.svg?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
 
----
+<!-- AI/ML -->
+![LangChain](https://img.shields.io/badge/LangChain-000000.svg?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000.svg?style=flat-square&logo=graphql&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-000?style=flat-square&logo=cohere&logoColor=fff)
+![Groq](https://img.shields.io/badge/Groq-A100FF?style=flat-square&logo=ai&logoColor=fff)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0A0A0A?style=flat-square&logo=databricks&logoColor=white)
 
-# 🟣 TECH STACK — *NEON FUSION MODE*
+<!-- DB -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-### 🧬 **Languages**
-`Python` • `Java`
+<!-- Tools -->
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render)
 
-### 🧪 **AI / ML / Deep Learning**
-`PyTorch` • `MobileNetV3` • `Grad-CAM` • `Semantic Search` • `Vector Embeddings` • `Document Retrieval`
+# 📊 GitHub Stats:
 
-### 🛰 **Backend Engineering**
-`FastAPI` • `Node.js` • `Express` • `LangChain` • `LangGraph`  
-`ChromaDB` • `PostgreSQL` • `MySQL`
+<div align="center">
 
-### 🟪 **Frontend Frameworks**
-`React.js` • `Next.js` • `React Native` • `TypeScript` • `Expo` • `Tailwind CSS`
+  <img src="https://github-readme-stats.vercel.app/api?username=HarsharajJ&theme=aura&hide_border=true&include_all_commits=false&count_private=true" 
+  alt="GitHub Stats" width="400" />
 
-### ☁ **Cloud & Deployment**
-`AWS` • `Render` • `Vercel` • `Docker`
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarsharajJ&theme=aura&hide_border=true" 
+  alt="GitHub Streak Stats" width="400" />
 
----
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarsharajJ&theme=aura&hide_border=true&include_all_commits=false&count_private=true&layout=compact" 
+  alt="Top Languages" width="400" />
 
-# ⚡ FEATURED PROJECTS — *TECH FROM TOMORROW*
-
-## 🔮 **AI Enterprise Chatbot — Manipal Technologies Ltd**
-> RAG-based, enterprise-grade AI system  
-- FastAPI + LangChain + LangGraph  
-- Groq Qwen 2.5 + Cohere embeddings  
-- Admin endpoints: PDF/URL ingest, chat logs, vector store  
-- Backend: Render | Frontend: Vercel  
-
----
-
-## 📱 **CYO — Connecting You Offline (React Native App)**
-> Hyper-local social networking mobile app  
-- React Native + Expo  
-- FastAPI backend  
-- Real-world events + shared interest matching  
-
----
-
-## 🥥 **Dried Coconut Classification — Deep Learning**
-> MobileNetV3 + PyTorch (100% accuracy)  
-- Image classification (3 classes)  
-- Grad-CAM visualization  
-- Presented at **COSMIC’25 (Scopus)**  
-- Patent filed  
-
----
-
-## 🛒 **Shri Mandarathi — E-Commerce Platform**
-> Next.js + Node.js (TypeScript)  
-- Admin dashboard  
-- Inventory management  
-- Full order lifecycle control  
-
----
-
-# 🟣 HIGHLIGHTS & ACHIEVEMENTS
-
-- 🥇 **Patent filed** for coconut classification AI solution  
-- 🧠 **Top 10 Finalist** – DevHost Hackathon 2024  
-- 📄 **Presented Research Paper** at COSMIC’25 (Scopus)  
-- ☁ **IBM AI & Cloud Internship**  
-- 🎓 B.E. in **Artificial Intelligence & Data Science**
-
----
-
-# ⚡ CERTIFICATIONS
-- AWS Cloud Practitioner Essentials  
-- IBM SkillsBuild — RAG with LangChain  
-- Udemy — The AI Engineer Course  
-- Introduction to Generative AI (LinkedIn Learning)
-
----
-
-# 💠 GITHUB STATS — *CYBERMETRIC DASHBOARD*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarsharajJ&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarsharajJ&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarsharajJ&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🧩 RANDOM CYBER QUOTE
-> *“The future is already here — it’s just not evenly distributed.”*  
-> — William Gibson
-
----
-
-# 🔥 FINAL NOTE
-If you enjoy my projects, drop a ⭐ — your support powers my next creation.
+</div>
