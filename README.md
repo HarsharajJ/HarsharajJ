@@ -1,129 +1,128 @@
-<!-- Banner -->
+<!-- Neon Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/7fjXy8V.png" width="800" />
+  <img src="https://i.imgur.com/e6p7R42.png" width="900" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <strong>Harsha Raj</strong></h1>
-<p align="center">AI & Full-Stack Developer | FastAPI • LangChain • React Native • Next.js</p>
+<h1 align="center">
+  <span style="color:#9D00FF;">⚡ HARSHARAJ ⚡</span>
+</h1>
+
+<h3 align="center">
+  <span style="color:#00E5FF;">AI Engineer • Full-Stack Developer • Cloud & ML Enthusiast</span>
+</h3>
 
 ---
 
-## 🚀 About Me
-A highly motivated **AI & Full-Stack Developer**, recently graduated with a **B.E. in Artificial Intelligence and Data Science**.  
-I specialize in building **AI-driven applications**, **chatbots**, **mobile apps**, and **full-stack systems** that solve real-world problems.  
-Passionate about modern web tech, vector databases, RAG pipelines, and scalable backend systems.  
-:contentReference[oaicite:1]{index=1}
+## 🟣 ABOUT ME — *"Built for the Future"*
+A futuristic **AI + Full-Stack Developer** forged in the world of neural networks and distributed systems.  
+Specialized in **AI chatbots, RAG pipelines, mobile apps, and full-stack systems** that scale like cyber-cities.  
+Fueled by curiosity. Driven by innovation.  
+Aiming to build tech that feels alive.
 
 ---
 
-## 🔗 Connect With Me
+## 🟦 CONNECT WITH ME
 <p align="center">
-  <a href="https://github.com/HarsharajJ">GitHub</a> •
-  <a href="https://linkedin.com/in/harsharaj-5755b8311">LinkedIn</a> •
-  <a href="mailto:harsharajs018@gmail.com">Email</a> •
-  <a href="https://harsharaj.vercel.app">Portfolio</a>
+  <a href="https://github.com/HarsharajJ"><img src="https://img.shields.io/badge/GitHub-0A0F0B?logo=github&logoColor=00E5FF"></a>
+  <a href="https://linkedin.com/in/harsharaj-5755b8311"><img src="https://img.shields.io/badge/LinkedIn-0A0F0B?logo=linkedin&logoColor=9D00FF"></a>
+  <a href="mailto:harsharajs018@gmail.com"><img src="https://img.shields.io/badge/Email-0A0F0B?logo=gmail&logoColor=FF0080"></a>
+  <a href="https://harsharaj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0F0B?logo=vercel&logoColor=00FFAA"></a>
 </p>
 
 ---
 
-## 🧠 Tech Stack
+# 🟣 TECH STACK — *NEON FUSION MODE*
 
-### 🔹 Programming Languages  
-**Python**, **Java**
+### 🧬 **Languages**
+`Python` • `Java`
 
-### 🔹 Backend  
-**FastAPI**, **Node.js**, **Express.js**, **LangChain**, **LangGraph**, **Groq**, **Cohere**, **ChromaDB**, **PostgreSQL**, **MySQL**
+### 🧪 **AI / ML / Deep Learning**
+`PyTorch` • `MobileNetV3` • `Grad-CAM` • `Semantic Search` • `Vector Embeddings` • `Document Retrieval`
 
-### 🔹 Frontend  
-**React.js**, **Next.js**, **React Native**, **Expo**, **TypeScript**, **Tailwind CSS**
+### 🛰 **Backend Engineering**
+`FastAPI` • `Node.js` • `Express` • `LangChain` • `LangGraph`  
+`ChromaDB` • `PostgreSQL` • `MySQL`
 
-### 🔹 Tools & Cloud  
-**PyTorch**, **Vercel**, **Render**, **AWS Cloud**, **Docker**, **Git**
+### 🟪 **Frontend Frameworks**
+`React.js` • `Next.js` • `React Native` • `TypeScript` • `Expo` • `Tailwind CSS`
 
-### 🔹 Concepts  
-RAG, Semantic Search, Deep Learning, Image Analysis, Cloud Computing, Multi-turn Conversation Handling  
-:contentReference[oaicite:2]{index=2}
-
----
-
-## 🏢 Internships
-### 🔹 **AI Company-Specific Chatbot — Manipal Technologies Ltd**  
-Built a complete **RAG-based enterprise chatbot** with:
-- FastAPI, LangChain, LangGraph  
-- Groq Qwen 2.5 + Cohere Embeddings  
-- Admin panel APIs (PDF/URL ingestion, chat management)  
-- Backend deployed to Render & frontend to Vercel  
-:contentReference[oaicite:3]{index=3}
-
-### 🔹 **IBM SkillsBuild — AI & Cloud (4 Weeks)**  
-Worked on real-world ML & cloud computing problem statements.  
-:contentReference[oaicite:4]{index=4}
+### ☁ **Cloud & Deployment**
+`AWS` • `Render` • `Vercel` • `Docker`
 
 ---
 
-## 🛠️ Featured Projects
+# ⚡ FEATURED PROJECTS — *TECH FROM TOMORROW*
 
-### ⭐ **CYO — Connecting You Offline (React Native App)**
-Cross-platform social networking app using **React Native + FastAPI backend**.  
-Connects users based on real-world events & shared interests.  
-:contentReference[oaicite:5]{index=5}
-
----
-
-### ⭐ **Dried Coconut Classification using Deep Learning**
-Built with **MobileNetV3 + PyTorch**,  
-Achieved **100% accuracy** across three classes.  
-Includes **Grad-CAM** for model interpretability.  
-Presented at **COSMIC’25 (Scopus)**.  
-:contentReference[oaicite:6]{index=6}
+## 🔮 **AI Enterprise Chatbot — Manipal Technologies Ltd**
+> RAG-based, enterprise-grade AI system  
+- FastAPI + LangChain + LangGraph  
+- Groq Qwen 2.5 + Cohere embeddings  
+- Admin endpoints: PDF/URL ingest, chat logs, vector store  
+- Backend: Render | Frontend: Vercel  
 
 ---
 
-### ⭐ **Shri Mandarathi — Full-Stack E-Commerce**
-Next.js frontend + Node.js/Express TS backend  
-• Admin/Customer roles  
-• Scalable product & order management  
-:contentReference[oaicite:7]{index=7}
+## 📱 **CYO — Connecting You Offline (React Native App)**
+> Hyper-local social networking mobile app  
+- React Native + Expo  
+- FastAPI backend  
+- Real-world events + shared interest matching  
 
 ---
 
-## 🏆 Achievements
-- Patent application filed for coconut classification AI project.  
-- Presented paper at **COSMIC’25 (Scopus)**.  
-- Top 10 at **DevHost Hackathon 2024** (Team Infinity-Void).  
-:contentReference[oaicite:8]{index=8}
+## 🥥 **Dried Coconut Classification — Deep Learning**
+> MobileNetV3 + PyTorch (100% accuracy)  
+- Image classification (3 classes)  
+- Grad-CAM visualization  
+- Presented at **COSMIC’25 (Scopus)**  
+- Patent filed  
 
 ---
 
-## ☁ Certifications  
+## 🛒 **Shri Mandarathi — E-Commerce Platform**
+> Next.js + Node.js (TypeScript)  
+- Admin dashboard  
+- Inventory management  
+- Full order lifecycle control  
+
+---
+
+# 🟣 HIGHLIGHTS & ACHIEVEMENTS
+
+- 🥇 **Patent filed** for coconut classification AI solution  
+- 🧠 **Top 10 Finalist** – DevHost Hackathon 2024  
+- 📄 **Presented Research Paper** at COSMIC’25 (Scopus)  
+- ☁ **IBM AI & Cloud Internship**  
+- 🎓 B.E. in **Artificial Intelligence & Data Science**
+
+---
+
+# ⚡ CERTIFICATIONS
 - AWS Cloud Practitioner Essentials  
-- AI Engineer Course – Udemy  
-- RAG with LangChain – IBM SkillsBuild  
-- Introduction to Generative AI  
-:contentReference[oaicite:9]{index=9}
+- IBM SkillsBuild — RAG with LangChain  
+- Udemy — The AI Engineer Course  
+- Introduction to Generative AI (LinkedIn Learning)
 
 ---
 
-## 📊 GitHub Stats
+# 💠 GITHUB STATS — *CYBERMETRIC DASHBOARD*
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarsharajJ&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarsharajJ&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarsharajJ&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarsharajJ&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarsharajJ&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 💬 Dev Quote
-> *“The hardest part of design is keeping features out.”* — Don Norman
+# 🧩 RANDOM CYBER QUOTE
+> *“The future is already here — it’s just not evenly distributed.”*  
+> — William Gibson
 
 ---
 
-## 🎯 Fun Stuff
-- 💙 Love travelling, photography, and cycling  
-- ☕ Powered by coffee  
-- 🎧 Music + Coding = Perfect Combo  
-:contentReference[oaicite:10]{index=10}
-
----
-
-### ⭐ If you like my work, consider giving a star ⭐ to my repositories!
-
+# 🔥 FINAL NOTE
+If you enjoy my projects, drop a ⭐ — your support powers my next creation.
