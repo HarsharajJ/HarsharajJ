@@ -110,17 +110,5 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render)
 
 
-# 📊 GitHub Stats:
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HarsharajJ&theme=aura&hide_border=true&include_all_commits=false&count_private=true" 
-alt="GitHub Stats" width="400" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarsharajJ&theme=aura&hide_border=true" 
-alt="GitHub Streak Stats" width="400" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarsharajJ&theme=aura&hide_border=true&include_all_commits=false&count_private=true&layout=compact"  
-alt="Top Languages" width="400" />
 
 </div>
